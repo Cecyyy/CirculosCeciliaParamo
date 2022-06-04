@@ -41,10 +41,10 @@ public class Circulo {
     @Override
     public String toString() {
         return "El circulo tiene un radio de " + radio +
-                "El area del circulo es "+calcularArea()+
+                "\n El area del circulo es "+calcularArea()+
 
-                "El diametro del circulo es "+calcularDiametro()+
-                "La circunferencia del circulo es de "+calcularCircunferencia();
+                "\n El diametro del circulo es "+calcularDiametro()+
+                "\n La circunferencia del circulo es de "+calcularCircunferencia();
 
     }
 }
