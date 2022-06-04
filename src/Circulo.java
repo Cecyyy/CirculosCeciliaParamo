@@ -9,4 +9,8 @@ public class Circulo {
     public void setRadio(double radio) {
         this.radio = radio;
     }
+
+    public Circulo(double radio) {
+        this.radio = radio;
+    }
 }
