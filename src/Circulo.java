@@ -34,4 +34,8 @@ public class Circulo {
         return circunferencia;
 
     }
+    public Circulo(){
+        System.out.println("No sirvo para nada :(");
+    }
+
 }
