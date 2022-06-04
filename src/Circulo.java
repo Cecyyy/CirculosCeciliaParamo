@@ -25,5 +25,13 @@ public class Circulo {
         return diametro;
 
 
+
+    }
+
+    public double calcularCircunferencia(){
+        double circunferencia;
+        circunferencia=3.1416*(2*radio);
+        return circunferencia;
+
     }
 }
