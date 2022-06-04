@@ -19,4 +19,11 @@ public class Circulo {
         area=(3.1416*Math.pow(radio,2));
         return area;
     }
+    public double calcularDiametro(){
+        double diametro;
+        diametro=(radio*2);
+        return diametro;
+
+
+    }
 }
